@@ -1,0 +1,5 @@
+answer = input("is today a good day? y/n ")
+
+if answer == "y":
+    for i in range(10):
+        print("Yeah, today is a good day!")
